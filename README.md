@@ -1,6 +1,6 @@
 ### Hi, I'm Jane 👋
 
-- 🔭 I’m currently learning and working on data projects.
+- 🔭 I’m currently a fellow at Tech4Dev.
 - 🌱 I’m currently learning Python and SQL.
 - 👯 I’m looking to collaborate on data projects.
 - 🤔 I’m looking for help with my projects review.
