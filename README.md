@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Data Science Fellow at Tech4Dev.
 - 😄 Proficient in Microsoft Excel, Microsoft PowerBI, Python, SQL
-- 🌱 I’m currently learning SQL.
+- 🌱 Lets collaborate on projects.
 - 👯 I’m looking to collaborate on data projects.
 - 🤔 I’m looking for help with my projects review.
 - 💬 Ask me about Machine Learning, data analysis, data visualization and all data stuff.
